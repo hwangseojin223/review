@@ -6,6 +6,7 @@
 
 - 생년월일: 2002-02-23
 - 연락처: 010-3127-4693
+- email: seozinidev@gmail.com
 - Github: https://github.com/hwangseojin223
 
 ## 1.2 Education
