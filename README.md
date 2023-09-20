@@ -14,3 +14,17 @@
 한국외국어대학교, 2020-03 ~
 
 - 전공: 컴퓨터전자시스템공학부
+
+## 1.3 Experiences
+
+#### skill
+
+- Python
+- C
+- C++
+- HTML
+- CSS
+- JAVA
+- Javascript
+- React
+- SQL
