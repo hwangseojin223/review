@@ -5,7 +5,7 @@
 이름: 황서진
 
 - 생년월일: 2002-02-23
-- 연락처: 010-3127-4693
+- 연락처: 010-0000-0000
 - email: seozinidev@gmail.com
 - Github: https://github.com/hwangseojin223
 
@@ -14,7 +14,6 @@
 한국외국어대학교, 2020-03 ~
 
 - 전공: 컴퓨터전자시스템공학부
-- senior
 
 ## 1.3 Experiences
 
